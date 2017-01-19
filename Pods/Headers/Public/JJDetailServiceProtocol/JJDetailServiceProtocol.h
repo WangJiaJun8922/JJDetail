@@ -1,0 +1,1 @@
+../../../JJDetailServiceProtocol/JJDetailServiceProtocol/JJDetailServiceProtocol/JJDetailServiceProtocol.h

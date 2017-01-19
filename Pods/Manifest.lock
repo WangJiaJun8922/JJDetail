@@ -1,0 +1,15 @@
+PODS:
+  - JJDetailServiceProtocol (0.0.1)
+  - JJProtocolManager (0.0.2)
+
+DEPENDENCIES:
+  - JJDetailServiceProtocol
+  - JJProtocolManager
+
+SPEC CHECKSUMS:
+  JJDetailServiceProtocol: 58dd3f31f317e2110dffc546ebd82f91afcb9221
+  JJProtocolManager: 989d817e1f972b756ad120e0596c992a0c930937
+
+PODFILE CHECKSUM: 7a0b36e927c0354bfc318b79dc43ffa25b3a92c1
+
+COCOAPODS: 1.2.0.beta.3

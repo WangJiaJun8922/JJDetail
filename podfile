@@ -1,0 +1,9 @@
+source 'https://github.com/WangJiaJun8922/PrivateProject.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'JJDetail' do
+
+pod "JJProtocolManager"
+pod "JJDetailServiceProtocol"
+
+end
